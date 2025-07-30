@@ -1,5 +1,5 @@
 public class myfile {
     public static void main(String[] args) {
-        System.out.println("Hello, aaj ki baat alag hai mere bhai!");
+        System.out.println("Hello, me to test kr rha tha!");
     }
 }
